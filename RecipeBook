@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Ali's Recipe Book</title>
+        <meta charset="utf-8">
+        
+        <style>
+        body {
+            color: #CCCCCC;
+        }
+        
+        .red {
+            color: rgb(255, 0, 0);
+        }
+        
+        .orange {
+            color: rgb(255, 128, 0);
+        }
+        
+        .yellow {
+            color: yellow;
+        }
+        
+        .green {
+            color: #008000;
+        }
+        
+        .blue {
+            color: rgb(0, 0, 255);
+        }
+        
+        .indigo {
+            color: rgb(75, 0, 130);
+        }
+        
+        .violet {
+            color: rgb(148, 0, 211);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1 class="blue">Ali's Recipe Book</h1>
+        
+        <h2 class="red">Contents:</h2>
+        
+        <ol>
+            <li class="green"><a href="#1">Recipe #1: Cheese Biscuits<br></a></li>
+            <li class="green"><a href="#2">Recipe #2: Mac and Cheeese</a></li>
+            <li class="green"><a href="#3">Recipe #3: Grilled Cheese</a></li>
+            
+        </ol>
+        
+        <h2 class="red" id="1">Recipe #1: Cheese Biscuits</h2>
+        
+        <ul>
+            <li class="green">Time: 25 mins</li>
+            <li class="green">Serves: 12</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th class="red">Ingredients</th>
+                    <th class="red">Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <ul>
+            <li class="green">1 3/4 cups all-purpose flour</li>
+             <li class="green">1/2 teaspoon salt</li>
+             <li class="green">1/2 teaspoon baking powder</li> 
+             <li class="green">5 tablespoons butter</li> 
+             <li class="green">1 cup milk</li>
+             <li class="green">1 cup shredded Cheddar cheese</li>
+             <li class="green">1/4 cup butter, melted</li>
+        </ul>
+        <p  class="green"><strong>Step 1:</strong> Preheat oven to 450 degrees F (230 degrees C).<br>
+<strong>Step 2:</strong>In a large bowl, sift together flour, salt and baking powder. Cut in butter until mixture resembles coarse crumbs. Make a well in the center of flour mixture. Add the milk and cheddar cheese; stir to combine. Drop batter by spoonfuls onto an ungreased baking sheet.<br>
+<strong>Step 3:</strong>Bake in preheated oven for 12 to 15 minutes, until lightly browned. While biscuits are baking mix melted butter and minced garlic. Brush garlic butter over hot baked biscuits.
+</p>
+        
+    <p  class="green"><em>Source: <a href="http://allrecipes.com/recipe/22313/cheese-garlic-biscuits-ii/">All Recipes</a></em></p>
+    
+    <h2  class="red" id="2">Recipe #2: Mac and Cheese</h2>
+        
+        <ul>
+            <li class="green">Time: 50 mins</li>
+            <li class="green">Serves: 4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th class="red">Ingredients</th>
+                    <th class="red">Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <ul>
+            <li class="green">8 ounces uncooked elbow macaroni</li>
+             <li class="green">2 cups shredded sharp Cheddar cheese</li>
+             <li class="green">1/2 cup grated Parmesan cheese</li> 
+             <li class="green">3 cups milk</li> 
+             <li class="green">1/4 cup butter</li>
+             <li class="green">2 1/2 tablespoons all-purpose flour</li>
+             <li class="green">2 tablespoons butter</li>
+             <li class="green">1/2 cup bread crumbs</li>
+             <li class="green">1 pinch paprika</li>
+        </ul>
+        <p class="green"><strong>Step 1:</strong>Cook macaroni according to the package directions. Drain.<br>
+<strong>Step 2:</strong>In a saucepan, melt butter or margarine over medium heat. Stir in enough flour to make a roux. Add milk to roux slowly, stirring constantly. Stir in cheeses, and cook over low heat until cheese is melted and the sauce is a little thick. Put macaroni in large casserole dish, and pour sauce over macaroni. Stir well.<br>
+<strong>Step 3:</strong>Melt butter or margarine in a skillet over medium heat. Add breadcrumbs and brown. Spread over the macaroni and cheese to cover. Sprinkle with a little paprika.<br>
+<strong>Step 4:</strong>Bake at 350 degrees F (175 degrees C) for 30 minutes. Serve.
+</p>
+        
+    <p class="green"><em>Source: <a href="http://allrecipes.com/recipe/11679/homemade-mac-and-cheese/">All Recipes</a></em></p>
+    
+    <h2  class="red" id="3">Recipe #3: Grilled Cheese</h2>
+        
+        <ul>
+            <li class="green">Time: 20 mins</li>
+            <li class="green">Serves: 2</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th class="red">Ingredients</th>
+                    <th class="red">Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <ul>
+            <li class="green">4 slices white bread</li>
+             <li class="green">3 tablespoons butter, divided</li>
+             <li class="green">2 slices Cheddar cheese</li> 
+        </ul>
+        <p class="green"><strong>Step 1:</strong> Preheat skillet over medium heat. <br>
+<strong>Step 2:</strong>Generously butter one side of a slice of bread. Place bread butter-side-down onto skillet bottom and add 1 slice of cheese. Butter a second slice of bread on one side and place butter-side-up on top of sandwich. <br>
+<strong>Step 3:</strong>Grill until lightly browned and flip over; continue grilling until cheese is melted. Repeat with remaining 2 slices of bread, butter and slice of cheese.<br>
+</p>
+        
+    <p class="green"><em>Source: <a href="http://allrecipes.com/recipe/23891/grilled-cheese-sandwich/">All Recipes</a></em></p>
+    
+    </body>
+</html>
+
