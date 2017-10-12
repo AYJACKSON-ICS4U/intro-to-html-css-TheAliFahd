@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Travel with Ali</title>
+    </head>
+    <body>
+    
+     <style>
+        body {
+            background-color: rgb(247, 195, 247);
+        }
+    
+        body {
+            color: #CCCCCC;
+        }
+        
+        .red {
+            color: rgb(255, 0, 0);
+        }
+        
+        .orange {
+            color: rgb(255, 128, 0);
+        }
+        
+        .yellow {
+            color: yellow;
+        }
+        
+        .green {
+            color: #008000;
+        }
+        
+        .blue {
+            color: rgb(0, 0, 255);
+        }
+        
+        .indigo {
+            color: rgb(75, 0, 130);
+        }
+        
+        .violet {
+            color: rgb(148, 0, 211);
+        }
+    </style>
+    
+        <h1 class="red">Travel to Canada</h1>
+        <p>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg" width = "200">
+        
+       
+    
+        <h2  class="blue">You will see...</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Great_Lakes_from_space_crop_labeled.jpg" width = "130">
+        <ul>
+            <li class="green">Rocky Mountains
+            <li class="green">Great Lakes
+            <li class="green">CN Tower
+        </ul>
+        <h2 class="blue">Things to do...</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rideau_Canal_Skateway_Ottawa.jpeg/220px-Rideau_Canal_Skateway_Ottawa.jpeg" width = "130">
+        <ul>
+            <li class="orange">Canada's Wonderland
+            <li class="orange">Skating on the Canal
+            <li class="orange">Hiking in the Rockies
+        </ul>
+        </p>
+    </body>
+</html>
