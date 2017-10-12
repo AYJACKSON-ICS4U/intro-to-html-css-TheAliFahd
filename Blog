@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+        body {
+            color: #CCCCCC;
+        }
+        
+        .red {
+            color: rgb(255, 0, 0);
+        }
+        
+        .green {
+            color: #008000;
+        }
+        body {
+            font-family: sans-serif;
+        }
+        
+        .story-title {
+            font-size: 64px;
+            color: rgb(0, 0, 255);
+            font-family: cursive;
+        }
+        
+        .story-subtitle {
+            color: rgb(255, 0, 0);font-size: 48px;
+            font-family: "Georgia", "Palatino", serif;
+        }
+        
+        code {
+            font-family: "Monaco", "Lucida Console", monospace;
+        }
+        </style>
+    </head>
+    <body>
+        
+        <h1 class="story-title">Ali's blog</h1>
+
+        <h3 class="red">Contents</h3>
+        <ul>
+            <li class="green"><a href="#1">Day 1</a></li>
+            <li class="green"><a href="#2">Day 2</a></li>
+        </ul>
+        
+        <h2 class="story-subtitle" id ="1">Day 1</h2>
+        <h6 class="green">10/12/2017</h6>
+        
+        <p class="green">I vounteered as tribute. I saved my little sister. I went to the capital. They fed me good food. I am getting to know Peeta. He makes good bread. I'm sleepy. Good Night.</p>
+        
+        <h2 class="story-subtitle" id ="2">Day 2</h2>
+        <h6 class="green">10/13/2017</h6>
+        
+        <p class="green">I died in the arena. I miss his bread.</p>
+        
+        
+    </body>
+</html>
